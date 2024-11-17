@@ -1,2 +1,1 @@
-# .github
-Organization config repository
+# Organization config repository
